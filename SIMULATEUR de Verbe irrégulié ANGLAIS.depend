@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709994418 source:c:\projets c\projet udemy\simulateur de verbe irrégulié anglais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
